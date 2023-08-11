@@ -1,4 +1,4 @@
-READ ME.  Middle boot camp project. 
+Attrition Exploration Project.
 
 Goals: 
 Identify the factors in the process before leaving the company. 
@@ -15,5 +15,3 @@ Comparing numerical tables
 Comparing categorical tables with contingency tables technique
 Matrix correlation
 Future logistic regression: Encode, Scalate and split done.
-
-
