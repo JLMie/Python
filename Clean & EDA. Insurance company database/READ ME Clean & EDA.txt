@@ -1,11 +1,13 @@
 
+Activities. 
+
 Using Jupyter Notebook. 
 
 Finding all of the categorical data. Save it in a categorical_df variable.
 
-Checking for NaN values and decide what to do with them, do it now.
+Checking for NaN values and deciding what to do with them, do it now.
 
-Checking all unique values of columns and dtypes. 
+Checking all unique values of columns and data types. 
 
 Cleaning and wrangling data. 
 
