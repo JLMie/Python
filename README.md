@@ -1,10 +1,10 @@
 # Python-projects
 
-  ## Attrition Exploration Project.
+  ### Attrition Exploration Project.
   GOALS: 1. Identify the factors in the process before leaving the company. 
          2. Describing the most common professional profile which leaves the company. 
 
-  ## Clean & EDA Project. Insurance company dataset Project.
+  ### Clean & EDA Project. Insurance company dataset Project.
   GOAL: Cleaning and exploration dataset. 
 
   ## Customer Segmentation Project.
